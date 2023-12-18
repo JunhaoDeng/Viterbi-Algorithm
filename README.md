@@ -1,0 +1,3 @@
+# Viterbi Algorithm
+This homework explores the applications of Temporal Reasoning in Artificial Intelligence. In general, the solution for a temporal reasoning task involves taking a sequence of actions/observations on an Partially Observable Markov Decision Process (POMDP Environment) , applying a temporal-reasoning algorithm that you learned from this class, and returning the most probable sequence of the hidden states that the POMDP most-likely went through when experiencing the given sequence of actions/observations.
+More specifically, this assignment provides you with two versions of temporal data: a base version involving the “Little Prince” Environment and an advanced version that revolves around speech recognition and text prediction.
